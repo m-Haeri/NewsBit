@@ -1,0 +1,2 @@
+# NewsBit
+Responsive
