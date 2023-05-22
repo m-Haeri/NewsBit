@@ -1,2 +1,2 @@
 # NewsBit
-Responsive
+Responsive News Web site
